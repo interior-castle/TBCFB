@@ -4,11 +4,17 @@ Some ideas to consider. Things to add, things to subtract, other changes I would
 
 The format for my notes is as follows:
 
-> ## Section of the book
+> ## Section/chapter of the book
 > 
-> > Section of text from the book
+> > Text from the book I'm commenting on
 > 
-> My comment on it
+> My comment on that text
+> 
+> > Next passage I'm commenting on
+>
+> My next comment
+
+---
 
 ## Prologue
 
