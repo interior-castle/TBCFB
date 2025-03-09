@@ -2,6 +2,14 @@
 
 Some ideas to consider. Things to add, things to subtract, other changes I would suggest making.
 
+The format for my notes is as follows:
+
+> ## Section of the book
+> 
+> > Section of text from the book
+> 
+> My comment on it
+
 ## Prologue
 
 > Yet for business to be conducted, money is required. Money is the most important good in any developed economy because it acts as the foundation for all trade and savings. Gold, the ancient and venerable precious metal, had served this role for millennia, but its physicality was an Achilles' heel ...
