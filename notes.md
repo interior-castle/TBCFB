@@ -30,7 +30,13 @@ The part of me that has read and appreciated Rothbard's *What Has Government Don
 
 Between these sentences, I think it would be good to have a single sentence listing the characteristics that a digital currency would have to have. "Such a currency would need to be secure, scarce, decentralized, fungible, and unforgeable." (This is the order of properties that you go through in the next few paragraphs where you recount the history of attempts to create digital currencies.)
 
+> With the market capitalization of Bitcoin surpassing a trillion dollars
 
+Might want to rephrase the beginning of this paragraph to future-proof it. "Trillions" would probably do it, at least until we 100x :)
+
+> and whose price rise has prompted some to compare it to the tulip mania or the dot-com bubble
+
+You might want to name also the skeptics who say they have missed the boat, that it's too late. I.e., that it was only a good investment back when it was in the tens or hundreds of dollars, but now there aren't sufficiently attractive gains to be had.
 
 
 
